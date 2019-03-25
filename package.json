@@ -9,7 +9,7 @@
   "keywords": [
     "something"
   ],
-  "author": "arham",
+  "author": "anuja",
   "license": "MIT",
   "dependencies": {
     "firebase": "^4.3.1"
