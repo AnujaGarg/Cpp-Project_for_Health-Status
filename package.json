@@ -1,0 +1,17 @@
+{
+  "name": "ds2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "something"
+  ],
+  "author": "arham",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^4.3.1"
+  }
+}
